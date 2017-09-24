@@ -37,7 +37,7 @@ public class BoardJump {
 		}
 			
 		for (int i = 0; i < 4; i++) 
-			if (x+d[i][0]>0 && x+d[i][0]<length && y+d[i][1]>0 && y+d[i][1]<length)
+			if (x+d[i][0]>=0 && x+d[i][0]<length && y+d[i][1]>=0 && y+d[i][1]<length)
 				jump(x + d[i][0], y + d[i][1], str + board[x][y]);
 
 	}
