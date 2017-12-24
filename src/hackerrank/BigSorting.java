@@ -13,12 +13,12 @@ public class BigSorting {
 		int n = sc.nextInt();
 		List<String> list = new ArrayList<>();
 
-		for (int i = 0; i < n; i++) list.add(sc.next());
+		for (int i = 0; i < n; i++)	list.add(sc.next());
 
-		list.sort((a, b) -> a.compareTo(b));
-		list.sort((a, b) -> a.length() - b.length());
-
-		list.forEach(System.out::println);
+		list.stream()
+		 	.sorted((a, b) -> a.compareTo(b))
+		 	.sorted((a, b) -> a.length() - b.length())
+			.forEach(System.out::println);
 
 		sc.close();
 
