@@ -8,5 +8,3 @@
 >	 1. 트리의 부모찾기
 >	 https://www.acmicpc.net/problem/11725
 >	 2. ㅇㅇ
-
-<span style="cursor: pointer;" onclick="toggleMoreLess(this, '230_0','더보기 &amp;quot;사용예&amp;quot; ','접기 '); return false;">더보기 &amp;quot;사용예&amp;quot; </span>
