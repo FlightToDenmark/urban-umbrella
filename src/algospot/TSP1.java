@@ -48,6 +48,7 @@ public class TSP1 {
 		path.add(city);
 
 		if (path.size() == totalCity) {
+			System.out.println(path);
 			visited[city] = false;
 			path.pollLast();
 			return 0;
