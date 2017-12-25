@@ -5,10 +5,10 @@ import java.util.Scanner;
 
 public class TSP {
 
+	public static final int INF = 1000000000;
 	public static int[][] distance;
 	public static int[][] cache;
 	public static int C;
-	public static final int INF = 1000000000;
 
 	public static void main(String[] args) {
 
