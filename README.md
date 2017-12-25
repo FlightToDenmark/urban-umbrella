@@ -4,6 +4,7 @@
 >	 1. 트리의 부모찾기
 >	 https://www.acmicpc.net/problem/11725
 
+
 > #### 스터디 27 (2017/12/24/일 11:00 @ 홍대입구역 할리스커피)
 > 1. Big Sorting
 > https://www.hackerrank.com/challenges/big-sorting/problem
@@ -11,6 +12,7 @@
 > https://algospot.com/judge/problem/read/TSP1
 > 3. 분해 반응
 > https://www.acmicpc.net/problem/2197
+
 
 > #### 스터디 26 (2017/12/10/일 17:00 @ 홍대입구역 할리스커피)
 > 1. Roads and Libraries
