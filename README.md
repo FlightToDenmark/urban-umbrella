@@ -13,22 +13,22 @@
 > https://algospot.com/judge/problem/read/TSP1
 > 3. 분해 반응
 > https://www.acmicpc.net/problem/2197
-
+##
 > #### 스터디 26 (2017/12/10/일 17:00 @ 홍대입구역 할리스커피)
 > 1. Roads and Libraries
 > https://www.hackerrank.com/challenges/torque-and-development/problem
 > 2. Bitcount
-
+##
 > #### 스터디 25 (2017/11/26/일 10:30 @ 홍대입구역 할리스커피)
 > 1. Baseball elimination
 > http://www.cs.princeton.edu/courses/archive/spr03/cos226/assignments/baseball.html
 > 2. Boggle
 > http://coursera.cs.princeton.edu/algs4/assignments/boggle.html
-
+##
 > #### 스터디 24 (2017/11/5/일 11:00 @ 합정역 부엉이곳간)
 > 1. Seam Carving
 > https://www.cs.princeton.edu/courses/archive/fall14/cos226/assignments/seamCarving.html
-
+##
 > #### 스터디 23 (2017/10/29/일 11:00 @ 합정역 부엉이곳간)
 > 1. Crossword Puzzle
 > https://www.hackerrank.com/challenges/crossword-puzzle
@@ -36,7 +36,7 @@
 > https://www.hackerrank.com/challenges/coin-on-the-table/problem
 > 3. 줄 서는 방법
 > https://programmers.co.kr/learn/challenge_codes/159
-
+##
 > #### 스터디 1 (2017/2/26/일 11:00 @ 합정역 투썸플레이스)
 > 1. 원주율 외우기
 > https://algospot.com/judge/problem/read/PI
