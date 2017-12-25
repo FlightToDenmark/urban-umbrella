@@ -11,7 +11,7 @@
 >	 2. ㅇㅇ
 
 > #### 스터디 1 (2017/2/26/일)
-> ### @합정역 투썸플레이스 11:00
+> ##### <pre>@합정역 투썸플레이스 11:00</pre>
 > 1. 원주율 외우기
 > https://algospot.com/judge/problem/read/PI
 > 2. Quantization
