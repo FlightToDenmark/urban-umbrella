@@ -11,7 +11,7 @@ public class TSP {
 	public static final int INF = 1000000000;
 
 	public static void main(String[] args) {
-				
+
 		Scanner sc = new Scanner(System.in);
 
 		C = sc.nextInt();
@@ -24,7 +24,7 @@ public class TSP {
 		for (int i = 0; i < C; i++)
 			for (int j = 0; j < C; j++)
 				distance[i][j] = sc.nextInt();
-				
+
 		System.out.println(findPaths(0, 1));
 
 		sc.close();
