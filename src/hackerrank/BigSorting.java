@@ -13,7 +13,7 @@ public class BigSorting {
 		int n = sc.nextInt();
 		List<String> list = new ArrayList<>();
 
-		for (int i = 0; i < n; i++)	list.add(sc.next());
+		for (int i = 0; i < n; i++) list.add(sc.next());
 
 		list.stream()
 		 	.sorted((a, b) -> a.compareTo(b))
