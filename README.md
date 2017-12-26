@@ -3,11 +3,15 @@
 > #### 스터디 28 (2018/1/2/화 19:30 @ 홍대입구역 할리스커피)
 >	 1. 트리의 부모찾기
 >	 https://www.acmicpc.net/problem/11725
+>	 2. 트리의 독립집합
+>	 https://www.acmicpc.net/problem/2213
+>	 3. Traveling Salesman Problem 2
+>	 https://algospot.com/judge/problem/read/TSP2
 ##
 > #### 스터디 27 (2017/12/24/일 11:00 @ 홍대입구역 할리스커피)
 > 1. Big Sorting
 > https://www.hackerrank.com/challenges/big-sorting/problem
-> 2. TSP1
+> 2. Traveling Salesman Problem 1
 > https://algospot.com/judge/problem/read/TSP1
 > 3. 분해 반응
 > https://www.acmicpc.net/problem/2197
