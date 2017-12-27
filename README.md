@@ -60,8 +60,9 @@
 > https://programmers.co.kr/learn/challenge_codes/183
 ##
 > #### 스터디 20 (2017/9/17/일 11:00 @ 합정역 투썸플레이스)
->> 모의테스트 300분 7개 문제
->> https://www.welcomekakao.com/tryouts/1467/intro
+> 
+> 모의테스트 300분 7개 문제
+> https://www.welcomekakao.com/tryouts/1467/intro
 ##
 > #### 스터디 19 (2017/9/3/일 11:00 @ 합정역 투썸플레이스)
 > 1. 광학 문자 인식
@@ -239,8 +240,8 @@
 > 4. N-Queen
 > http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1162&sca=30  
 > 
->> \+ N-Queen (leetcode)
->> https://leetcode.com/problems/n-queens/?tab=Description  
+> \+ N-Queen (leetcode)
+> https://leetcode.com/problems/n-queens/?tab=Description  
 ##
 > #### 스터디 1 (2017/2/26/일 11:00 @ 합정역 투썸플레이스)
 > 1. 원주율 외우기
