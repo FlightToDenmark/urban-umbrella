@@ -115,7 +115,7 @@
 > 4. 도시락 데우기
 > https://algospot.com/judge/problem/read/LUNCHBOX
 ##
-> #### 스터디 14 (2017/7/9/일 11:00 @합정역 투썸플레이스)
+> #### 스터디 14 (2017/7/9/일 11:00 @ 합정역 투썸플레이스)
 > 1. 바이러스
 > https://www.acmicpc.net/problem/2606
 > 2. 타임머신
@@ -148,7 +148,8 @@
 > https://algospot.com/judge/problem/read/ROUTING
 > 3. 소방차
 > https://algospot.com/judge/problem/read/FIRETRUCKS  
-> /+ 팰린드롬  
+> 
+> \+ 팰린드롬  
 > https://www.acmicpc.net/problem/1695  
 > https://www.acmicpc.net/problem/1213  
 > https://www.acmicpc.net/problem/2079  
@@ -163,7 +164,8 @@
 > https://algospot.com/judge/problem/read/FESTIVAL
 > 3. 영역 구하기
 > https://www.acmicpc.net/problem/2583  
->/+ 29장 그래프의 너비 우선 탐색 공부  
+> 
+> \+ 29장 그래프의 너비 우선 탐색 공부  
 ##
 > #### 스터디 9 (2017/5/2/화 19:30 @ 합정역 투썸플레이스)
 > 1. 회의실 배정 (Revisited)
@@ -201,7 +203,7 @@
 > https://algospot.com/judge/problem/read/RUNNINGMEDIAN
 > 3. Binary Search Tree
 > https://algospot.com/judge/problem/read/BST
-> /+ 27단원 그래프의 표현과 정의  
+> \+ 27단원 그래프의 표현과 정의  
 ##
 > #### 스터디 5 (2017/3/30/목 19:00 @ 합정역 투썸플레이스)
 > 1. 너드인가, 너드가 아닌가? 2
@@ -235,7 +237,8 @@
 > https://algospot.com/judge/problem/read/SNAIL
 > 4. N-Queen
 > http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1162&sca=30  
-\+ N-Queen (leetcode)
+> 
+> \+ N-Queen (leetcode)
 > https://leetcode.com/problems/n-queens/?tab=Description  
 ##
 > #### 스터디 1 (2017/2/26/일 11:00 @ 합정역 투썸플레이스)
