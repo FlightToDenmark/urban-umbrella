@@ -147,7 +147,7 @@
 > 2. 신호 라우팅
 > https://algospot.com/judge/problem/read/ROUTING
 > 3. 소방차
-> https://algospot.com/judge/problem/read/FIRETRUCKS  
+> https://algospot.com/judge/problem/read/FIRETRUCKS
 > ++ 팰린드롬  
 > https://www.acmicpc.net/problem/1695  
 > https://www.acmicpc.net/problem/1213  
@@ -155,7 +155,6 @@
 > https://www.acmicpc.net/problem/10942  
 > https://algospot.com/judge/problem/read/PALINDROMIZE  
 > https://algospot.com/judge/problem/read/PCOMPLETE  
-
 ##
 > #### 스터디 10 (2017/5/14/일 11:00 @ 합정역 투썸플레이스)
 > 1. Sorting Game (Revisited)
@@ -163,8 +162,8 @@
 > 2. 록 페스티벌
 > https://algospot.com/judge/problem/read/FESTIVAL
 > 3. 영역 구하기
-> https://www.acmicpc.net/problem/2583  
-> ++ 29장 그래프의 너비 우선 탐색 공부
+> https://www.acmicpc.net/problem/2583
+> ++ 29장 그래프의 너비 우선 탐색 공부  
 ##
 > #### 스터디 9 (2017/5/2/화 19:30 @ 합정역 투썸플레이스)
 > 1. 회의실 배정 (Revisited)
@@ -181,9 +180,9 @@
 > https://algospot.com/judge/problem/read/MEETINGROOM
 > 3. 두니발 박사의 탈옥
 > https://algospot.com/judge/problem/read/NUMB3RS
-> 4. 스도쿠  
-> https://www.acmicpc.net/problem/2239  
-> https://www.acmicpc.net/problem/2580
+> 4. 스도쿠
+> https://www.acmicpc.net/problem/2239    
+> https://www.acmicpc.net/problem/2580  
 ##
 > #### 스터디 7 (2017/4/16/일 14:30 @ 합정역 투썸플레이스)
 > 1. 비대칭 타일링
@@ -201,8 +200,8 @@
 > 2. 변화하는 중간값
 > https://algospot.com/judge/problem/read/RUNNINGMEDIAN
 > 3. Binary Search Tree
-> https://algospot.com/judge/problem/read/BST  
-> ++ 27단원 그래프의 표현과 정의
+> https://algospot.com/judge/problem/read/BST
+> ++ 27단원 그래프의 표현과 정의  
 ##
 > #### 스터디 5 (2017/3/30/목 19:00 @ 합정역 투썸플레이스)
 > 1. 너드인가, 너드가 아닌가? 2
@@ -235,9 +234,9 @@
 > 3. 달팽이
 > https://algospot.com/judge/problem/read/SNAIL
 > 4. N-Queen
-> http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1162&sca=30  
+> http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1162&sca=30
 > ++ N-Queen (leetcode)
-> https://leetcode.com/problems/n-queens/?tab=Description
+> https://leetcode.com/problems/n-queens/?tab=Description  
 ##
 > #### 스터디 1 (2017/2/26/일 11:00 @ 합정역 투썸플레이스)
 > 1. 원주율 외우기
