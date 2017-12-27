@@ -150,11 +150,17 @@
 > https://algospot.com/judge/problem/read/FIRETRUCKS
 > + 팰린드롬
 > https://www.acmicpc.net/problem/1695
+
 > https://www.acmicpc.net/problem/1213
+
 > https://www.acmicpc.net/problem/2079
+
 > https://www.acmicpc.net/problem/10942
+
 > https://algospot.com/judge/problem/read/PALINDROMIZE
+
 > https://algospot.com/judge/problem/read/PCOMPLETE
+
 ##
 > #### 스터디 10 (2017/5/14/일 11:00 @ 합정역 투썸플레이스)
 > 1. Sorting Game (Revisited)
@@ -201,7 +207,7 @@
 > https://algospot.com/judge/problem/read/RUNNINGMEDIAN
 > 3. Binary Search Tree
 > https://algospot.com/judge/problem/read/BST
-> + 27단원 그래프의 표현과 정의
+> ++ 27단원 그래프의 표현과 정의
 ##
 > #### 스터디 5 (2017/3/30/목 19:00 @ 합정역 투썸플레이스)
 > 1. 너드인가, 너드가 아닌가? 2
