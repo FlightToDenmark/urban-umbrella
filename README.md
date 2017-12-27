@@ -241,7 +241,7 @@
 > https://algospot.com/judge/problem/read/SNAIL
 > 4. N Queen
 > http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1162&sca=30
-> +. N Queen (leetcode)
+> ++ N Queen (leetcode)
 > https://leetcode.com/problems/n-queens/?tab=Description
 ##
 > #### 스터디 1 (2017/2/26/일 11:00 @ 합정역 투썸플레이스)
