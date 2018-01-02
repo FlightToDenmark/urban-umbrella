@@ -11,9 +11,11 @@
 >	 https://algospot.com/judge/problem/read/NERD2
 >	 5. 삽입 정렬 뒤집기
 >	 https://algospot.com/judge/problem/read/INSERTION
->	 6. 외판원 순회
+>
+>	 \+ 외판원 순회
 >	 https://www.acmicpc.net/problem/2098
->	 7. 외판원 순회 2
+>
+>	 \+ 외판원 순회 2
 >	 https://www.acmicpc.net/problem/10971
 ##
 > #### 스터디 28 (2018/1/2/화 18:30 @ 홍대입구역 할리스커피)
