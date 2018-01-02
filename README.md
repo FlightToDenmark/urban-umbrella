@@ -1,6 +1,22 @@
 ### 알고리즘 스터디
 ##
-> #### 스터디 28 (2018/1/2/화 19:30 @ 홍대입구역 할리스커피)
+> #### 스터디 29 (2018/1/14/일 11:00 @ 홍대입구역 할리스커피)
+>	 1. Traveling Salesman Problem 3
+>	 https://algospot.com/judge/problem/read/TSP3
+>	 2. 트리 순회 순서 변경
+>	 https://algospot.com/judge/problem/read/TRAVERSAL
+>	 3. 요새
+>	 https://algospot.com/judge/problem/read/FORTRESS
+>	 4. 너드인가, 너드가 아닌가? 2
+>	 https://algospot.com/judge/problem/read/NERD2
+>	 5. 삽입 정렬 뒤집기
+>	 https://algospot.com/judge/problem/read/INSERTION
+>	 6. 외판원 순회
+>	 https://www.acmicpc.net/problem/2098
+>	 7. 외판원 순회 2
+>	 https://www.acmicpc.net/problem/10971
+##
+> #### 스터디 28 (2018/1/2/화 18:30 @ 홍대입구역 할리스커피)
 >	 1. 트리의 부모찾기
 >	 https://www.acmicpc.net/problem/11725
 >	 2. 트리의 독립집합
