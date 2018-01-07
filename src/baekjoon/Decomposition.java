@@ -8,20 +8,23 @@ public class Decomposition {
 
 	public static List<ArrayList<Integer>> adj;
 	public static boolean visited[];
-	public static int[] child;
+	public static int[] component;
+	public static int[][] cache;
 
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
 
-		int n = sc.nextInt();
-		int m = sc.nextInt();
+		int N = sc.nextInt();
+		int M = sc.nextInt();
 		adj = new ArrayList<>();
-		visited = new boolean[n+1];
-		child = new int[n+1];
-		for (int i = 0; i <= n; i++) adj.add(new ArrayList<Integer>());
+		visited = new boolean[N+1];
+		component = new int[N+1];
+		cache = new int[N+1][N+1];
+		
+		for (int i = 0; i <= N; i++) adj.add(new ArrayList<Integer>());
 
-		for (int i = 0; i < n - 1; i++) {
+		for (int i = 0; i < N - 1; i++) {
 			int a = sc.nextInt();
 			int b = sc.nextInt();
 			adj.get(a).add(b);
@@ -29,21 +32,18 @@ public class Decomposition {
 		}
 
 		sc.close();
-
+		
 		dfs(1);
 		
-		int cut = 0;
-		while(m!=0) {
-			for(int i=1; i<=n; i++){
-				if(m==child[i] || n-m==child[i]) {
-					cut++;
-					break;
-				}
-			}
+		for (int i=1; i<=N; i++) {
+			System.out.println(component[i]);
 		}
-		System.out.println(cut);
+
 				
 	}
+	
+
+	
 
 	public static int dfs(int node) {
 
@@ -51,12 +51,19 @@ public class Decomposition {
 
 		int children = 1;
 		for (int next : adj.get(node)) {
-			if (!visited[next])
-				children += dfs(next);
+			if (!visited[next]) children += dfs(next);
+		}
+		
+		for(int i=0; i<children; i++) {
+			cache[node][i] = 1;
 		}
 
-		return child[node] = children;
-
+		
+		cache[node][children] = 1;		
+		return component[node] = children;
+	
 	}
+	
+	
 
 }
