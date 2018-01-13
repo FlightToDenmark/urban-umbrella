@@ -11,6 +11,7 @@ public class FORTRESS {
 	public static int[] x, y, r;
 	public static List<ArrayList<Integer>> children;
 	public static int longest;
+	public static boolean[] visited;
 	
 	public static void main(String[] args) {
 
@@ -27,6 +28,7 @@ public class FORTRESS {
 			x = new int[node];
 			y = new int[node];
 			r = new int[node];
+			visited = new boolean[node];
 			children = new ArrayList<>();
 			for (int n = 0; n < node; n++) {
 				children.add(new ArrayList<Integer>());
@@ -70,9 +72,11 @@ public class FORTRESS {
 	}
 
 	public static int makeTree(int root) {
+		
+		visited[root] = true;
 
 		for (int n = 0; n < node; n++) {
-			if (isChild(root, n)) {
+			if (!visited[n] && isChild(root, n)) {
 				children.get(root).add(makeTree(n));
 			}
 		}		
@@ -86,9 +90,9 @@ public class FORTRESS {
 
 //		System.out.println(Arrays.asList(children));
 		
-		if (children.get(root).size() == 0) return 0;
-		
 		for (int n : children.get(root)) heights.add(treeHeight(n));
+		
+		if(heights.size() == 0) return 0;
 		
 //		Collections.sort(heights, Integer::compare);
 		Collections.sort(heights);
