@@ -1,6 +1,6 @@
 ### 알고리즘 스터디
 ##
-> #### 스터디 29 (2018/1/14/일 11:00 @ 홍대입구역 할리스커피)
+> #### 스터디 29 (2018/1/21/일 12:00 @ 홍대입구역 할리스커피)
 >	 1. Traveling Salesman Problem 3
 >	 https://algospot.com/judge/problem/read/TSP3
 >	 2. 트리 순회 순서 변경
