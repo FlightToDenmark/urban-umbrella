@@ -1,5 +1,18 @@
 ### 알고리즘 스터디
 ##
+> #### 스터디 30 (2018/1/28/일 12:00 @ 홍대 슈퍼스타트)
+>	 1. 변화하는 중간값
+>	 https://algospot.com/judge/problem/read/RUNNINGMEDIAN
+>	 2. 등산로
+>	 https://algospot.com/judge/problem/read/MORDOR
+>	 3. 오름세
+>	 https://www.acmicpc.net/problem/3745
+>
+>	 \+ 가장 긴 증가하는 부분 수열
+>	 https://www.acmicpc.net/problem/11053  
+>	 \+ 가장 큰 증가 부분 수열
+>	 https://www.acmicpc.net/problem/11055
+##
 > #### 스터디 29 (2018/1/21/일 12:00 @ 홍대입구역 할리스커피)
 >	 1. Traveling Salesman Problem 3
 >	 https://algospot.com/judge/problem/read/TSP3
