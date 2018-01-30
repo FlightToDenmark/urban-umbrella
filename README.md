@@ -1,11 +1,15 @@
 ### 알고리즘 스터디
 ##
-> #### 스터디 30 (2018/1/28/일 12:00 @ 홍대 슈퍼스타트)
+> #### 스터디 30 (2018/2/4/일 12:00 @ 홍대 슈퍼스타트)
 >	 1. 변화하는 중간값
 >	 https://algospot.com/judge/problem/read/RUNNINGMEDIAN
 >	 2. 등산로
 >	 https://algospot.com/judge/problem/read/MORDOR
->	 3. 오름세
+>	 3. 족보 탐험
+>	 https://algospot.com/judge/problem/read/FAMILYTREE
+>	 4. 삽입 정렬 시간 재기
+>	 https://algospot.com/judge/problem/read/MEASURETIME
+>	 5. 오름세
 >	 https://www.acmicpc.net/problem/3745
 >
 >	 \+ 가장 긴 증가하는 부분 수열
