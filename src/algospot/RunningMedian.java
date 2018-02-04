@@ -52,12 +52,12 @@ public class RunningMedian {
 
 class RNG {
 
-	int seed = 1983;
-	int a, b;
+	int seed, a, b;
 
 	public RNG(int a, int b) {
 		this.a = a;
 		this.b = b;
+		this.seed = 1983;
 	}
 
 	public int next() {
