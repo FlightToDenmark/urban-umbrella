@@ -44,7 +44,7 @@ public class RunningMedian {
 			}
 			ret = (ret + maxHeap.peek()) % 20090711;
 		}
-		return ret	;
+		return ret;
 
 	}
 
