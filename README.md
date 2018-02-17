@@ -11,7 +11,7 @@
 >	 https://www.hackerrank.com/challenges/two-characters/problem
 >
 >	 \+ 최소값
->	 https://www.acmicpc.net/problem/10868
+>	 https://www.acmicpc.net/problem/10868  
 >	 \+ 최소값과 최대값
 >	 https://www.acmicpc.net/problem/2357
 ##
