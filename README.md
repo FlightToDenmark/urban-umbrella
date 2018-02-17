@@ -10,6 +10,10 @@
 >	 4. Two Characters
 >	 https://www.hackerrank.com/challenges/two-characters/problem
 >
+>	 \+ 최소값
+>	 https://www.acmicpc.net/problem/10868
+>	 \+ 최소값과 최대값
+>	 https://www.acmicpc.net/problem/2357
 ##
 > #### 스터디 30 (2018/2/4/일 12:00 @ 합정역 투썸플레이스)
 >	 1. 변화하는 중간값
