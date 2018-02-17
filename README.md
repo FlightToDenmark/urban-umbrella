@@ -13,7 +13,7 @@
 >	 \+ 최소값
 >	 https://www.acmicpc.net/problem/10868  
 >	 \+ 최소값과 최대값
->	 https://www.acmicpc.net/problem/2357
+>	 https://www.acmicpc.net/problem/2357  
 >	 \+ 구간 합 구하기
 >	 https://www.acmicpc.net/problem/2042
 ##
