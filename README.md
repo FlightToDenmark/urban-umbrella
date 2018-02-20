@@ -1,5 +1,13 @@
 ### 알고리즘 스터디
 ##
+> #### 스터디 32 (2018/2/25/일 20:00 @ 홍대 슈퍼스타트)
+>	 1. The Coin Change Problem
+>	 https://www.hackerrank.com/challenges/coin-change/problem
+>	 2. Red John is Back
+>	 https://www.hackerrank.com/challenges/red-john-is-back/problem
+>	 3. 족보 탐험
+>	 https://algospot.com/judge/problem/read/FAMILYTREE
+##
 > #### 스터디 31 (2018/2/18/일 12:00 @ 홍대 슈퍼스타트)
 >	 1. 등산로
 >	 https://algospot.com/judge/problem/read/MORDOR
