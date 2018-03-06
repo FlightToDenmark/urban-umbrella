@@ -1,5 +1,20 @@
 ### 알고리즘 스터디
 ##
+> #### 스터디 34 (2018/3/18/일 12:00 @ 신촌 토즈)
+>	 1. 에디터 전쟁
+>	 https://algospot.com/judge/problem/read/EDITORWARS
+>	 2. 안녕히, 그리고 물고기는 고마웠어요!
+>	 https://algospot.com/judge/problem/read/SOLONG
+>	 3. Sorting Game
+>	 https://algospot.com/judge/problem/read/SORTGAME
+>	 4. How to shuffle songs?
+>	 https://labs.spotify.com/2014/02/28/how-to-shuffle-songs/
+##
+> #### 스터디 33 (2018/3/4/일 12:00 @ 신촌 토즈)
+>	 1. Optimal stopping problem
+>	 2. ArrayList vs. LinkedList // HashMap
+>	 3. A* search algorithm
+##
 > #### 스터디 32 (2018/2/25/일 20:00 @ 홍대 슈퍼스타트)
 >	 1. The Coin Change Problem
 >	 https://www.hackerrank.com/challenges/coin-change/problem
