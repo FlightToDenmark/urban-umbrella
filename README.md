@@ -1,13 +1,17 @@
 ### 알고리즘 스터디
 ##
-> #### 스터디 34 (2018/3/18/일 12:00 @ 신촌역 토즈)
->	 1. 에디터 전쟁
->	 https://algospot.com/judge/problem/read/EDITORWARS
+> #### 스터디 35 (2018/3/25/일 12:00 @ 장소 미정)
+>	 1. 집합의 표현
+>	 https://www.acmicpc.net/problem/1717
 >	 2. 안녕히, 그리고 물고기는 고마웠어요!
 >	 https://algospot.com/judge/problem/read/SOLONG
->	 3. Sorting Game
+##
+> #### 스터디 34 (2018/3/18/일 12:00 @ 합정역 투썸플레이스)
+>	 1. 에디터 전쟁
+>	 https://algospot.com/judge/problem/read/EDITORWARS
+>	 2. Sorting Game
 >	 https://algospot.com/judge/problem/read/SORTGAME
->	 4. How to shuffle songs?
+>	 3. How to shuffle songs?
 >	 https://labs.spotify.com/2014/02/28/how-to-shuffle-songs/
 ##
 > #### 스터디 33 (2018/3/4/일 12:00 @ 신촌 토즈)
