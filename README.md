@@ -1,5 +1,13 @@
 ### 알고리즘 스터디
 ##
+> #### 스터디 36 (2018/4/1/일 12:00 @ 합정역 투썸플레이스)
+>	 1. Bricks Game
+>	 https://www.hackerrank.com/challenges/play-game/problem
+>	 2. 전화번호 목록 
+>	 https://www.acmicpc.net/problem/5052
+>	 3. 근거리 네트워크
+>	 https://algospot.com/judge/problem/read/LAN
+##
 > #### 스터디 35 (2018/3/25/일 12:00 @ 합정역 투썸플레이스)
 >	 1. 집합의 표현
 >	 https://www.acmicpc.net/problem/1717
