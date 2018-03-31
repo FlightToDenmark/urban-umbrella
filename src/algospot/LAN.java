@@ -21,7 +21,7 @@ public class LAN {
 
 		int testCase = Integer.parseInt(br.readLine());
 
-		while (testCase-- > 0) {
+		while (testCase--> 0) {
 			StringTokenizer st = new StringTokenizer(br.readLine());
 			N = Integer.parseInt(st.nextToken());
 			int M = Integer.parseInt(st.nextToken());
