@@ -1,5 +1,13 @@
 ### 알고리즘 스터디
 ##
+> #### 스터디 37 (2018/4/8/일 12:00 @ 신촌 토즈)
+>	 1. 보안종결자
+>	 https://algospot.com/judge/problem/read/NH
+>	 2. 여행 경로 정하기
+>	 https://algospot.com/judge/problem/read/TPATH
+>	 3. 스타트와 링크
+>	 https://www.acmicpc.net/problem/14889
+##
 > #### 스터디 36 (2018/4/1/일 12:00 @ 합정역 투썸플레이스)
 >	 1. Bricks Game
 >	 https://www.hackerrank.com/challenges/play-game/problem
