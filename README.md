@@ -1,6 +1,16 @@
 ### 알고리즘 스터디
 ##
-> #### 스터디 37 (2018/4/8/일 12:00 @ 신촌 토즈)
+> #### 스터디 38 (2018/4/15/수 19:00 @ 신촌역 토즈)
+>	 1. 스도쿠
+>	 https://www.acmicpc.net/problem/2580
+>	 2. 드래곤 커브 
+>	 https://algospot.com/judge/problem/read/DRAGON
+>	 3. 수영장
+>	 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&
+>	 4. 찾기 
+>	 https://www.acmicpc.net/problem/1786
+##
+> #### 스터디 37 (2018/4/8/일 12:00 @ 신촌역 토즈)
 >	 ~~1. 보안종결자
 >	 https://algospot.com/judge/problem/read/NH~~  
 >	 2. 여행 경로 정하기
@@ -32,7 +42,7 @@
 >	 3. How to shuffle songs?
 >	 https://labs.spotify.com/2014/02/28/how-to-shuffle-songs/
 ##
-> #### 스터디 33 (2018/3/4/일 12:00 @ 신촌 토즈)
+> #### 스터디 33 (2018/3/4/일 12:00 @ 신촌역 토즈)
 >	 1. Optimal stopping problem
 >	 2. ArrayList vs. LinkedList // HashMap
 >	 3. A* search algorithm
