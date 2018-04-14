@@ -30,7 +30,6 @@ public class Sudoku2580 {
 		}
 
 		fill();
-
 		print();
 
 	}
