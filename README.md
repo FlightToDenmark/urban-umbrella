@@ -1,5 +1,17 @@
 ### 알고리즘 스터디
 ##
+> #### 스터디 39 (2018/4/29/일 12:00 @ 신촌역 토즈)
+>	 1. 가장 긴 팰린드롬 부분 문자열
+>	 https://www.acmicpc.net/problem/13275
+>	 2. 웜홀 
+>	 https://www.acmicpc.net/problem/1865
+>	 3. 키 순서
+>	 https://www.acmicpc.net/problem/2458
+>	 4. 와일드카드 
+>	 https://algospot.com/judge/problem/read/WILDCARD
+>	 +) 광고 
+>	 https://www.acmicpc.net/problem/1305
+##
 > #### 스터디 38 (2018/4/18/수 19:00 @ 신촌역 토즈)
 >	 1. 스도쿠
 >	 https://www.acmicpc.net/problem/2580
