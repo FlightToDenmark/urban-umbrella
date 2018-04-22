@@ -9,7 +9,7 @@
 >	 https://www.acmicpc.net/problem/2458
 >	 4. 와일드카드 
 >	 https://algospot.com/judge/problem/read/WILDCARD
->	 +) 광고 
+>	 \+ 광고 
 >	 https://www.acmicpc.net/problem/1305
 ##
 > #### 스터디 38 (2018/4/18/수 19:00 @ 신촌역 토즈)
