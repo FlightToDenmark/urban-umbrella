@@ -1,4 +1,8 @@
 ### 최단거리 알고리즘
-> #### Bellman-Ford  
+> ### 벨만-포드 Bellman-Ford  
 >	 타임머신
 >	 https://www.acmicpc.net/problem/11657
+>	 웜홀
+>	 https://www.acmicpc.net/problem/1865
+>	 시간여행
+>	 https://algospot.com/judge/problem/read/TIMETRIP
