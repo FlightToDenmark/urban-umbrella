@@ -1,5 +1,17 @@
 ### 알고리즘 스터디
 ##
+> #### 스터디 40 (2018/5/6/일 12:00 @ 신촌역 토즈)
+>	 1. 시간여행
+>	 https://algospot.com/judge/problem/read/TIMETRIP
+>	 2. 방 번호 
+>	 https://www.acmicpc.net/problem/15668
+>	 3. LCA 2
+>	 https://www.acmicpc.net/problem/11438
+>	 4. 팰린드롬 경로 찾기 
+>	 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWJLR9X6UHwDFAUH
+>
+>	 \+ 광고 
+>	 https://www.acmicpc.net/problem/1305
 > #### 스터디 39 (2018/4/29/일 12:00 @ 신촌역 토즈)
 >	 1. 가장 긴 팰린드롬 부분 문자열
 >	 https://www.acmicpc.net/problem/13275
