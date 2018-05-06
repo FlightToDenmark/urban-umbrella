@@ -37,7 +37,7 @@ public class LCA11438 {
 			adj.get(b).add(a);
 		}
 
-		dfs(1, 1); // Make Tree
+		dfs(1, 1); // Make Tree (source, depth)
 		fillParents();
 
 		int M = Integer.parseInt(br.readLine());
