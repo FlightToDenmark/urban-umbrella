@@ -1,4 +1,13 @@
 ### 알고리즘 스터디
+
+##
+> #### 스터디 41 (2018/5/13/일 12:00 @ 신촌역 토즈)
+>	 1. 2018 연세대학교 프로그래밍 경진대회
+>	 https://www.acmicpc.net/problem/15667
+>	 2. 폴리오미노
+>	 https://www.acmicpc.net/problem/1343
+>	 3. 영준이의 진짜 BFS
+>	 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LnipaDvwDFAXc&
 ##
 > #### 스터디 40 (2018/5/6/일 12:00 @ 신촌역 토즈)
 >	 1. 시간여행
