@@ -6,7 +6,7 @@
 > https://www.acmicpc.net/problem/11657  
 > 웜홀
 > https://www.acmicpc.net/problem/1865  
-> 시간여행 
+> 시간여행
 > https://algospot.com/judge/problem/read/TIMETRIP  
 
 > ### Floyd-Warshall 
@@ -16,9 +16,9 @@
 >	 https://www.acmicpc.net/problem/2458  
 
 ### BFS
->	 나이트의 이동    
+>	 나이트의 이동
 >	 https://www.acmicpc.net/problem/7562  
 
 ### Union Find
->	 집합의 표현  
+>	 집합의 표현
 >	 https://www.acmicpc.net/problem/1717  
