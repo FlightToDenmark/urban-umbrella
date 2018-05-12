@@ -14,3 +14,11 @@
 >	 https://www.acmicpc.net/problem/11404  
 >	 키  순서  
 >	 https://www.acmicpc.net/problem/2458  
+
+### BFS
+>	 나이트의 이동    
+>	 https://www.acmicpc.net/problem/7562  
+
+### Union Find
+>	 집합의 표현  
+>	 https://www.acmicpc.net/problem/1717  
