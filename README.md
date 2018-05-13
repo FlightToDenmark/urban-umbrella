@@ -1,6 +1,18 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 42 (2018/5/20/일 12:00 @ 신촌역 토즈)
+>	 1. 폴리오미노
+>	 https://algospot.com/judge/problem/read/POLY
+>	 2. 등비수열
+>	 https://www.acmicpc.net/problem/15712
+>	 3. 나무 위의 입자
+>	 https://www.acmicpc.net/problem/15669
+>	 4. 연세워터파크
+>	 https://www.acmicpc.net/problem/15678
+>	 5. Z
+>	 https://www.acmicpc.net/problem/1074
+##
 > #### 스터디 41 (2018/5/13/일 12:00 @ 신촌역 토즈)
 >	 1. 2018 연세대학교 프로그래밍 경진대회
 >	 https://www.acmicpc.net/problem/15667
