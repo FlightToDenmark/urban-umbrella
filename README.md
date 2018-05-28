@@ -1,6 +1,16 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 43 (2018/6/3/일 12:00 @ 신촌역 토즈)
+>	 1. 노트북의 주인을 찾아서
+>	 https://www.acmicpc.net/problem/1298
+>	 2. 오델로
+>	 https://www.acmicpc.net/problem/15671
+>	 3. 회전하는 큐
+>	 https://www.acmicpc.net/problem/1021
+>	 4. 팬미팅
+>	 https://algospot.com/judge/problem/read/FANMEETING
+##
 > #### 스터디 42 (2018/5/20/일 12:00 @ 신촌역 토즈)
 >	 1. 폴리오미노
 >	 https://algospot.com/judge/problem/read/POLY
