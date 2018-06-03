@@ -1,6 +1,16 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 44 (2018/6/10/일 12:00 @ 신촌역 토즈)
+>	 1. 헤븐스 키친 2
+>	 https://www.acmicpc.net/problem/15673
+>	 2. 마피아
+>	 https://www.acmicpc.net/problem/1210
+>	 3. 스터디 그룹
+>	 https://www.acmicpc.net/problem/14572
+>	 4. 블록 게임
+>	 https://algospot.com/judge/problem/read/BLOCKGAME
+##
 > #### 스터디 43 (2018/6/3/일 12:00 @ 신촌역 토즈)
 >	 1. 노트북의 주인을 찾아서
 >	 https://www.acmicpc.net/problem/1298
