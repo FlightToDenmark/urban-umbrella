@@ -23,6 +23,9 @@
 >	 집합의 표현
 >	 https://www.acmicpc.net/problem/1717  
 
+### Segment Tree
+>	 구간 합 구하기
+>	 https://www.acmicpc.net/problem/2042  
 
 ### Network Flow
 > ### Bipartite Matching
