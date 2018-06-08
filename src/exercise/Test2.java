@@ -3,7 +3,6 @@ import java.util.Queue;
 
 public class Test2 {
 
-	static int globalD;
 	static int[] capacity;
 	static boolean[][][] visited;
 	static Queue<int[]> q;
@@ -14,7 +13,6 @@ public class Test2 {
 
 	public static int solution(int a, int b, int c, int d) {
 
-		globalD = d;
 		capacity = new int[] { 0, a, b, c };
 		visited = new boolean[101][101][101];
 
@@ -27,7 +25,7 @@ public class Test2 {
 			int[] status = q.poll();
 
 			for (int i = 1; i <= 3; i++) {
-				if (status[i] == globalD) {
+				if (status[i] == d) {
 					return status[0];
 				}
 			}
