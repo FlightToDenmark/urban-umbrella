@@ -33,3 +33,11 @@
 > https://www.acmicpc.net/problem/1298  
 > 축사 배정
 > https://www.acmicpc.net/problem/2188
+
+### Two pointers
+>	 수들의 합 2
+>	 https://www.acmicpc.net/problem/2003  
+
+### Sliding Window
+>	 내려가기
+>	 https://www.acmicpc.net/problem/2096  
