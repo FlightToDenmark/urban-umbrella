@@ -2,16 +2,14 @@ package algospot;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class BlockGame {
 
 	static final byte INIT = 0, LOSING = -1, WINNING = 1;
 	static byte[] memo = new byte[(1 << 25)];
 	static char[] B;
-	static List<Integer> block = new ArrayList<>(124);
+	static int[] block = new int[104];
 
 	public static void main(String[] args) throws Exception {
 
@@ -56,19 +54,20 @@ public class BlockGame {
 
 	static void makeBlocks() {
 
+		int idx = 0;
 		for (int i = 0; i < 4; i++) {
 			for (int j = 0; j < 4; j++) {
-				block.add((1 << i + 5 * j) + (1 << (i + 1) + 5 * j) + (1 << i + 5 * (j + 1)));
-				block.add((1 << i + 5 * j) + (1 << (i + 1) + 5 * j) + (1 << (i + 1) + 5 * (j + 1)));
-				block.add((1 << i + 5 * j) + (1 << i + 5 * (j + 1)) + (1 << (i + 1) + 5 * (j + 1)));
-				block.add((1 << (i + 1) + 5 * j) + (1 << i + 5 * (j + 1)) + (1 << (i + 1) + 5 * (j + 1)));
+				block[idx++] = (1 << i + 5 * j) + (1 << (i + 1) + 5 * j) + (1 << i + 5 * (j + 1));
+				block[idx++] = (1 << i + 5 * j) + (1 << (i + 1) + 5 * j) + (1 << (i + 1) + 5 * (j + 1));
+				block[idx++] = (1 << i + 5 * j) + (1 << i + 5 * (j + 1)) + (1 << (i + 1) + 5 * (j + 1));
+				block[idx++] = (1 << (i + 1) + 5 * j) + (1 << i + 5 * (j + 1)) + (1 << (i + 1) + 5 * (j + 1));
 			}
 		}
 
 		for (int i = 0; i < 5; i++) {
 			for (int j = 0; j < 4; j++) {
-				block.add((1 << i + 5 * j) + (1 << i + 5 * (j + 1)));
-				block.add((1 << j + 5 * i) + (1 << (j + 1) + 5 * i));
+				block[idx++] = (1 << i + 5 * j) + (1 << i + 5 * (j + 1));
+				block[idx++] = (1 << j + 5 * i) + (1 << (j + 1) + 5 * i);
 			}
 		}
 
