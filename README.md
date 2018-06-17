@@ -2,14 +2,14 @@
 
 ##
 > #### 스터디 45 (2018/6/24/일 12:00 @ 신촌역 토즈)
->	 1. 덕환이의 카드 뽑기
->	 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcL9nKpbEDFAV8&categoryId=AWNcL9nKpbEDFAV8&categoryType=CODE
->	 2. 회의실배정
+>	 1. 회의실배정
 >	 https://www.acmicpc.net/problem/1931
->	 3. 시간표 짜기
+>	 2. 시간표 짜기
 >	 https://www.acmicpc.net/problem/14569
->	 4. 수들의 합
+>	 3. 수들의 합
 >	 https://www.acmicpc.net/problem/2268
+>	 4. 덕환이의 카드 뽑기
+>	 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcL9nKpbEDFAV8&categoryId=AWNcL9nKpbEDFAV8&categoryType=CODE
 ##
 > #### 스터디 44 (2018/6/17/일 12:00 @ 신촌역 토즈)
 >	 1. 헤븐스 키친 2
