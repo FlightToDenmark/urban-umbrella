@@ -1,7 +1,9 @@
 package baekjoon;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
 public class TimeTable14569 {
@@ -26,6 +28,7 @@ public class TimeTable14569 {
 		int P;
 		int possible;
 		long[] studentBit = new long[M];
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		for (int m = 0; m < M; m++) {
 			possible = 0;
 			st = new StringTokenizer(br.readLine());
@@ -38,8 +41,10 @@ public class TimeTable14569 {
 					possible++;
 				}
 			}
-			System.out.println(possible);
+			// System.out.println(possible);
+			bw.write(possible + "\n");
 		}
+		bw.flush();
 
 	}
 
