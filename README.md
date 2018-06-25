@@ -1,6 +1,18 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 46 (2018/7/1/일 12:00 @ 신촌역 토즈)
+>	 1. 뒤풀이
+>	 https://www.acmicpc.net/problem/14575
+>	 2. 멀티탭 스케줄링
+>	 https://www.acmicpc.net/problem/1700
+>	 3. 음악프로그램
+>	 https://www.acmicpc.net/problem/2623
+>	 4. 회전초밥
+>	 https://algospot.com/judge/problem/read/SUSHI
+>	 5. 동서양의 경계
+>	 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWEbScy6yS8DFAWs&categoryId=AWEbScy6yS8DFAWs&categoryType=CODE&&&
+##
 > #### 스터디 45 (2018/6/24/일 12:00 @ 신촌역 토즈)
 >	 1. 회의실배정
 >	 https://www.acmicpc.net/problem/1931
