@@ -1,6 +1,22 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 47 (2018/7/15/일 12:00 @ 신촌역 토즈)
+>	 1. 보안 업체
+>	 https://www.acmicpc.net/problem/4243
+>	 2. 트리
+>	 https://www.acmicpc.net/problem/1068
+>	 3. 최대 유량
+>	 https://www.acmicpc.net/problem/6086
+>	 4. QueryreuQ
+>	 https://www.acmicpc.net/problem/15770
+>	 5. 문자열 합치기
+>	 https://algospot.com/judge/problem/read/STRJOIN
+>	 6. 프로세서 연결하기
+>	 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf
+>	 7. 트리 흑백 색칠
+>	 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6esOKOKQDFAWw&categoryId=AWO6esOKOKQDFAWw&categoryType=CODE#none
+##
 > #### 스터디 46 (2018/7/1/일 12:00 @ 신촌역 토즈)
 >	 1. 뒤풀이
 >	 https://www.acmicpc.net/problem/14575
