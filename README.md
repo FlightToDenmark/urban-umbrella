@@ -1,5 +1,18 @@
 ### 알고리즘 스터디
 
+
+##
+> #### 스터디 48 (2018/7/22/일 12:00 @ 신촌역 토즈)
+>	 1. 보안 업체
+>	 https://www.acmicpc.net/problem/4243
+>	 2. 최대 유량
+>	 https://www.acmicpc.net/problem/6086
+>	 3. 주사위 쌓기
+>	 https://www.acmicpc.net/problem/2116
+>	 4. Mismatched Brackets
+>	 https://algospot.com/judge/problem/read/BRACKETS2
+>	 5. 지희의 고장난 계산기
+>	 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yC3pqCegDFAUx&categoryId=AV4yC3pqCegDFAUx&categoryType=CODE&&&&&&
 ##
 > #### 스터디 47 (2018/7/15/일 12:00 @ 신촌역 토즈)
 >	 1. 보안 업체
