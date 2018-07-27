@@ -1,6 +1,17 @@
 ### 알고리즘 스터디
 
-
+##
+> #### 스터디 49 (2018/8/5/일 12:00 @ 신촌역 토즈)
+>	 1. 가위바위보
+>	 https://www.acmicpc.net/problem/2207
+>	 2. 공유기 설치
+>	 https://www.acmicpc.net/problem/2110
+>	 3. 해밍 순열
+>	 https://www.acmicpc.net/problem/7868
+>	 4. Brackets
+>	 https://algospot.com/judge/problem/read/BRACKETS
+>	 5. 외계 신호 분석
+>	 https://algospot.com/judge/problem/read/ITES
 ##
 > #### 스터디 48 (2018/7/22/일 12:00 @ 신촌역 토즈)
 >	 1. 보안 업체
