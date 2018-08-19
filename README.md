@@ -1,6 +1,16 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 50 (2018/8/26/일 12:00 @ 신촌역 토즈)
+>	 1. 트리 순회 순서 변경
+>	 https://algospot.com/judge/problem/read/TRAVERSAL
+>	 2. 마법의 약
+>	 https://algospot.com/judge/problem/read/POTION
+>	 3. 격자판 채우기
+>	 https://www.acmicpc.net/problem/1648
+>	 4. 러시아 국기 같은 깃발
+>	 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQl9TIK8qoDFAXj&categoryId=AWQl9TIK8qoDFAXj&categoryType=CODE&&&
+##
 > #### 스터디 49 (2018/8/19/일 12:00 @ 신촌역 토즈)
 >	 1. 가위바위보
 >	 https://www.acmicpc.net/problem/2207
