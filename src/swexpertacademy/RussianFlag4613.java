@@ -10,7 +10,8 @@ public class RussianFlag4613 {
 	static final int W = 0, B = 1, R = 2;
 	static int N, M;
 	static char[][] board = new char[50][50];
-	static int[][] memo = new int[50][3];
+	static int[][] memo = new int[50][3]; // color
+	static int[][] cache = new int[50][3]; // DP
 
 	public static void main(String[] args) throws Exception {
 
@@ -26,6 +27,10 @@ public class RussianFlag4613 {
 
 			for (int[] cache : memo) {
 				Arrays.fill(cache, 0);
+			}
+
+			for (int[] memo : cache) {
+				Arrays.fill(memo, -1);
 			}
 
 			for (int n = 0; n < N; n++) {
@@ -51,13 +56,17 @@ public class RussianFlag4613 {
 
 	static int solve(int row, int color) { // 0: W, 1: B, 2: R
 
+		if (cache[row][color] != -1) {
+			return cache[row][color];
+		}
+
 		int answer = M - memo[row][color];
 
 		if (row == N - 1) {
 			if (color == R) {
-				return M - memo[row][R];
+				return cache[row][color] = M - memo[row][R];
 			} else {
-				return 99999;
+				return cache[row][color] = 99999;
 			}
 		}
 
@@ -70,10 +79,12 @@ public class RussianFlag4613 {
 		}
 
 		if (color == R) {
-			answer += solve(row + 1, R);
+			for (int r = row + 1; r < N; r++) {
+				answer += M - memo[r][R];
+			}
 		}
 
-		return answer;
+		return cache[row][color] = answer;
 
 	}
 
