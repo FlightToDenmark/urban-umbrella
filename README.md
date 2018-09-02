@@ -1,6 +1,16 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 51 (2018/9/9/일 12:00 @ 신촌역 토즈)
+>	 1. 삽입 정렬 뒤집기
+>	 https://algospot.com/judge/problem/read/INSERTION
+>	 2. 흘러라 시간! 딴 짓 하기
+>	 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUi0ioqo9MDFAVT&categoryId=AWUi0ioqo9MDFAVT&categoryType=CODE&&&
+>	 3. 콩 많이 심기
+>	 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLv-yZah48DFAVV&categoryId=AWLv-yZah48DFAVV&categoryType=CODE
+>	 4. 수제 버거 장인
+>	 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWErcQmKy6kDFAXi&categoryId=AWErcQmKy6kDFAXi&categoryType=CODE
+##
 > #### 스터디 50 (2018/9/2/일 12:00 @ 신촌역 토즈)
 >	 1. 트리 순회 순서 변경
 >	 https://algospot.com/judge/problem/read/TRAVERSAL
