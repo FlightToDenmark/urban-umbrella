@@ -1,6 +1,16 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 52 (2018/9/16/일 12:00 @ 신촌역 토즈)
+>	 1. 여행 짐 싸기
+>	 https://algospot.com/judge/problem/read/PACKING
+>	 2. 사탕상자
+>	 https://www.acmicpc.net/problem/2243
+>	 3. 마라톤 1
+>	 https://www.acmicpc.net/problem/10655
+>	 4. 의석이의 우뚝 선 산
+>	 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2h6AKBCoDFAVT&categoryId=AWS2h6AKBCoDFAVT&categoryType=CODE&&&
+##
 > #### 스터디 51 (2018/9/9/일 12:00 @ 신촌역 토즈)
 >	 1. 삽입 정렬 뒤집기
 >	 https://algospot.com/judge/problem/read/INSERTION
