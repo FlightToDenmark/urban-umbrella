@@ -1,6 +1,12 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 53 (2018/9/30/일 12:00 @ 신촌역 토즈)
+>	 1. 택배
+>	 https://www.acmicpc.net/problem/1866
+>	 2. 공장
+>	 https://www.acmicpc.net/problem/7578
+##
 > #### 스터디 52 (2018/9/16/일 12:00 @ 신촌역 토즈)
 >	 1. 여행 짐 싸기
 >	 https://algospot.com/judge/problem/read/PACKING
