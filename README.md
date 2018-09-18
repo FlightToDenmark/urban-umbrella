@@ -6,6 +6,14 @@
 >	 https://www.acmicpc.net/problem/1866
 >	 2. 공장
 >	 https://www.acmicpc.net/problem/7578
+>	 3. 나는 개구리로소이다
+>	 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWxqfhKAWgDFAW4
+>	 4. 카드1
+>	 https://www.acmicpc.net/problem/2161
+>	 5. 색종이
+>	 https://www.acmicpc.net/problem/2563
+>	 6. 매직 스타
+>	 https://www.acmicpc.net/problem/3967
 ##
 > #### 스터디 52 (2018/9/16/일 12:00 @ 신촌역 토즈)
 >	 1. 여행 짐 싸기
