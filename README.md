@@ -1,6 +1,18 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 55 (2018/10/14/일 12:00 @ 신촌역 토즈)
+>	 1. 부스터
+>	 https://www.acmicpc.net/problem/15955
+>	 2. 연습시즌
+>	 https://www.acmicpc.net/problem/9023
+>	 3. 내려가기
+>	 https://www.acmicpc.net/problem/2096
+>	 4. 박스 채우기
+>	 https://www.acmicpc.net/problem/1493
+>	 5. 무지의 먹방 라이브
+>	 https://www.welcomekakao.com/learn/courses/30/lessons/42891
+##
 > #### 스터디 54 (2018/10/7/일 12:00 @ 신촌역 토즈)
 >	 1. 상금 헌터
 >	 https://www.acmicpc.net/problem/15953
