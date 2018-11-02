@@ -1,14 +1,16 @@
 ### 알고리즘 스터디
 
 ##
-> #### 스터디 56 (2018/10/28/일 12:00 @ 신촌역 토즈)
+> #### 스터디 56 (2018/11/4/일 12:00 @ 신촌역 토즈)
 >	 1. DNA
 >	 https://www.acmicpc.net/problem/1969
 >	 2. 사수아탕
 >	 https://www.acmicpc.net/problem/2419
 >	 3. 탑
 >	 https://www.acmicpc.net/problem/2493
->	 4. 후보키
+>	 4. 가로등 끄기
+>	 https://www.acmicpc.net/problem/2315
+>	 5. 후보키
 >	 https://www.welcomekakao.com/learn/courses/30/lessons/42890
 ##
 > #### 스터디 55 (2018/10/14/일 12:00 @ 신촌역 토즈)
