@@ -1,6 +1,22 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 57 (2018/11/11/일 12:00 @ 신촌역 토즈)
+>	 1. 히스토그램
+>	 https://www.acmicpc.net/problem/1725
+>	 2. 히스토그램에서 가장 큰 직사각형
+>	 https://www.acmicpc.net/problem/6549
+>	 3. 스티커
+>	 https://www.acmicpc.net/problem/9465
+>	 4. 굉장한 학생
+>	 https://www.acmicpc.net/problem/2336
+>	 5. 도로 네트워크
+>	 https://www.acmicpc.net/problem/3176
+>	 6. 택배
+>	 https://www.acmicpc.net/problem/8980
+>	 7. 소문난 칠공주
+>	 https://www.acmicpc.net/problem/1941
+##
 > #### 스터디 56 (2018/11/4/일 12:00 @ 신촌역 토즈)
 >	 1. DNA
 >	 https://www.acmicpc.net/problem/1969
