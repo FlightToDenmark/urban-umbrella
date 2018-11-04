@@ -16,6 +16,8 @@
 >	 https://www.acmicpc.net/problem/8980
 >	 7. 소문난 칠공주
 >	 https://www.acmicpc.net/problem/1941
+>	 8. 부분집합의 합
+>	 https://www.acmicpc.net/problem/1182
 ##
 > #### 스터디 56 (2018/11/4/일 12:00 @ 신촌역 토즈)
 >	 1. DNA
