@@ -1,6 +1,16 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 58 (2018/11/18/일 12:00 @ 신촌역 토즈)
+>	 1. 예산
+>	 https://www.acmicpc.net/problem/2512
+>	 2. 도영이가 만든 맛있는 음식
+>	 https://www.acmicpc.net/problem/2961
+>	 3. Sequence
+>	 https://www.acmicpc.net/problem/2291
+>	 4. 순열
+>	 https://www.acmicpc.net/problem/1849
+##
 > #### 스터디 57 (2018/11/11/일 12:00 @ 신촌역 토즈)
 >	 1. 히스토그램
 >	 https://www.acmicpc.net/problem/1725
