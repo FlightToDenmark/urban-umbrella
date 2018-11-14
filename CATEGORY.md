@@ -41,3 +41,7 @@
 ### Sliding Window
 >	 내려가기
 >	 https://www.acmicpc.net/problem/2096  
+
+### Binary Search
+>	 수 찾기
+>	 https://www.acmicpc.net/problem/1920
