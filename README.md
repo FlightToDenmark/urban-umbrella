@@ -1,6 +1,16 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 59 (2018/11/25/일 12:00 @ 신촌역 토즈)
+>	 1. Count Circle Groups
+>	 https://www.acmicpc.net/problem/10216
+>	 2. 제곱수의 합
+>	 https://www.acmicpc.net/problem/1699
+>	 3. 컨닝
+>	 https://www.acmicpc.net/problem/1014
+>	 4. LRH 식물
+>	 https://www.acmicpc.net/problem/2934
+##
 > #### 스터디 58 (2018/11/18/일 12:00 @ 신촌역 토즈)
 >	 1. 예산
 >	 https://www.acmicpc.net/problem/2512
