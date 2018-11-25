@@ -1,7 +1,19 @@
 ### 알고리즘 스터디
 
 ##
-> #### 스터디 59 (2018/11/25/일 12:00 @ 신촌역 토즈)
+> #### 스터디 60 (2018/12/2/일 12:00 @ 신촌역 토즈)
+>	 1. 발전소
+>	 https://www.acmicpc.net/problem/1102
+>	 2. 아기 상어
+>	 https://www.acmicpc.net/problem/16236
+>	 3. 음주 코딩
+>	 https://www.acmicpc.net/problem/5676
+>	 4. N-Rook
+>	 https://www.acmicpc.net/problem/1760
+>	 5. 컨닝 2
+>	 https://www.acmicpc.net/problem/11014
+##
+> #### 스터디 59 (2018/11/25/일 20:00 @ 사당역 투썸플레이스)
 >	 1. Count Circle Groups
 >	 https://www.acmicpc.net/problem/10216
 >	 2. 제곱수의 합
