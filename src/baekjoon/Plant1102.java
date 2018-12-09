@@ -16,11 +16,12 @@ public class Plant1102 {
 	public static void main(String[] args) throws Exception {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = new StringTokenizer(br.readLine());
 		N = Integer.parseInt(br.readLine());
+		P = Integer.parseInt(br.readLine());
 		cost = new int[N][N];
 		cache = new int[1 << N];
 		Arrays.fill(cache, -1);
-		StringTokenizer st;
 		for (int i = 0; i < N; i++) {
 			st = new StringTokenizer(br.readLine());
 			for (int j = 0; j < N; j++) {
