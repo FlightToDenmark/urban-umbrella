@@ -1,6 +1,12 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 61 (2018/12/16/일 12:00 @ 신촌역 토즈)
+>	 1. 책 구매하기
+>	 https://www.acmicpc.net/problem/11405
+>	 2. 나무 재테크
+>	 https://www.acmicpc.net/problem/16235
+##
 > #### 스터디 60 (2018/12/9/일 12:00 @ 신촌역 토즈)
 >	 1. 발전소
 >	 https://www.acmicpc.net/problem/1102
