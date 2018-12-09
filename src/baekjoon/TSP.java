@@ -19,7 +19,8 @@ public class TSP {
 		distance = new int[C][C];
 		cache = new int[C][1 << C];
 
-		for (int[] d : cache) Arrays.fill(d, -1);
+		for (int[] d : cache)
+			Arrays.fill(d, -1);
 
 		for (int i = 0; i < C; i++)
 			for (int j = 0; j < C; j++)
@@ -33,14 +34,23 @@ public class TSP {
 
 	public static int findPaths(int here, int visited) {
 
-		if (visited == (1 << C) - 1) return distance[here][0];
+		if (visited == (1 << C) - 1) {
+			if (distance[here][0] > 0) {
+				return distance[here][0];
+			} else {
+				return INF;
+			}
+		}
 
-		if (cache[here][visited] >= 0) return cache[here][visited];
+		if (cache[here][visited] >= 0)
+			return cache[here][visited];
 
 		int ret = INF;
 		for (int next = 0; next < C; next++) {
-			if ((visited & (1 << next)) != 0) continue;
-			if (distance[here][next] == 0) continue;
+			if ((visited & (1 << next)) != 0)
+				continue;
+			if (distance[here][next] == 0)
+				continue;
 			int cand = distance[here][next] + findPaths(next, visited + (1 << next));
 			ret = Math.min(ret, cand);
 		}
