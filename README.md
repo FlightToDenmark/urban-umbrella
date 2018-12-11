@@ -6,6 +6,8 @@
 >	 https://www.acmicpc.net/problem/11405
 >	 2. 나무 재테크
 >	 https://www.acmicpc.net/problem/16235
+>	 3. 파도반 수열
+>	 https://www.acmicpc.net/problem/9461
 ##
 > #### 스터디 60 (2018/12/9/일 12:00 @ 신촌역 토즈)
 >	 1. 발전소
