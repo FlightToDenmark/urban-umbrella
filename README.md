@@ -1,6 +1,14 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 62 (2018/12/23/일 12:00 @ 신촌역 토즈)
+>	 1. 인구 이동
+>	 https://www.acmicpc.net/problem/16234
+>	 2. 거의 최단 경로
+>	 https://www.acmicpc.net/problem/5719
+>	 3. 책 구매하기 2
+>	 https://www.acmicpc.net/problem/11406
+##
 > #### 스터디 61 (2018/12/16/일 12:00 @ 신촌역 토즈)
 >	 1. 책 구매하기
 >	 https://www.acmicpc.net/problem/11405
