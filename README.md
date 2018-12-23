@@ -1,6 +1,14 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 63 (2018/12/30/일 12:00 @ 신촌역 토즈)
+>	 1. 두 용액
+>	 https://www.acmicpc.net/problem/2470
+>	 2. 도미노
+>	 https://www.acmicpc.net/problem/4196
+>	 3. 책 구매하기 3
+>	 https://www.acmicpc.net/problem/11407
+##
 > #### 스터디 62 (2018/12/23/일 12:00 @ 신촌역 토즈)
 >	 1. 인구 이동
 >	 https://www.acmicpc.net/problem/16234
