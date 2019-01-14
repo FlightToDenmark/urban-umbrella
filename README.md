@@ -6,6 +6,8 @@
 >	 https://www.acmicpc.net/problem/14864
 >	 2. 사다리 조작
 >	 https://www.acmicpc.net/problem/15684
+>	 3. 빅 픽쳐
+>	 https://www.acmicpc.net/problem/10538
 ##
 > #### 스터디 64 (2018/1/13/일 11:00 @ 신촌역 토즈)
 >	 1. 행성 터널
