@@ -1,6 +1,16 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 66 (2018/2/10/일 13:00 @ 신촌역 토즈)
+>	 1. 전깃줄 - 2
+>	 https://www.acmicpc.net/problem/2568
+>	 2. 반복 부분문자열
+>	 https://www.acmicpc.net/problem/1605
+>	 3. 치킨 배달
+>	 https://www.acmicpc.net/problem/15686
+>	 4. Synchronizing Clocks
+>	 https://algospot.com/judge/problem/read/CLOCKSYNC
+##
 > #### 스터디 65 (2018/1/27/일 13:00 @ 신촌역 토즈)
 >	 1. 줄서기
 >	 https://www.acmicpc.net/problem/14864
