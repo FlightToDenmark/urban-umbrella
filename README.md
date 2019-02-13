@@ -1,6 +1,14 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 67 (2018/2/17/일 12:00 @ 신촌역 토즈)
+>	 1. 신입 사원
+>	 https://www.acmicpc.net/problem/1946
+>	 2. 톱니바퀴
+>	 https://www.acmicpc.net/problem/14891
+>	 3. 주작 주 주작
+>	 https://www.acmicpc.net/problem/12792
+##
 > #### 스터디 66 (2018/2/10/일 13:00 @ 신촌역 토즈)
 >	 1. 전깃줄 - 2
 >	 https://www.acmicpc.net/problem/2568
