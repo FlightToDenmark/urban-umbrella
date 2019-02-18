@@ -1,6 +1,14 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 68 (2018/2/24/일 12:00 @ 신촌역 토즈)
+>	 1. 쿼드트리
+>	 https://www.acmicpc.net/problem/1992
+>	 2. 감시
+>	 https://www.acmicpc.net/problem/15683
+>	 3. 축구 게임
+>	 https://www.acmicpc.net/problem/13560
+##
 > #### 스터디 67 (2018/2/17/일 12:00 @ 신촌역 토즈)
 >	 1. 신입 사원
 >	 https://www.acmicpc.net/problem/1946
