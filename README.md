@@ -1,7 +1,18 @@
 ### 알고리즘 스터디
 
+
 ##
-> #### 스터디 68 (2018/2/24/일 12:00 @ 신촌역 토즈)
+> #### 스터디 69 (2018/3/3/일 12:00 @ 신촌역 토즈)
+>	 1. 기타줄
+>	 https://www.acmicpc.net/problem/1049
+>	 2. 369 게임
+>	 hhttps://www.acmicpc.net/problem/10802
+>	 3. 커플 만들기
+>	 https://www.acmicpc.net/problem/1727
+>	 4. 디지털 비디오 디스크(DVDs)
+>	 https://www.acmicpc.net/problem/9345
+##
+> #### 스터디 68 (2018/2/24/일 13:00 @ 신촌역 토즈)
 >	 1. 쿼드트리
 >	 https://www.acmicpc.net/problem/1992
 >	 2. 감시
