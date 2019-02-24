@@ -6,7 +6,7 @@
 >	 1. 기타줄
 >	 https://www.acmicpc.net/problem/1049
 >	 2. 369 게임
->	 hhttps://www.acmicpc.net/problem/10802
+>	 https://www.acmicpc.net/problem/10802
 >	 3. 커플 만들기
 >	 https://www.acmicpc.net/problem/1727
 >	 4. 디지털 비디오 디스크(DVDs)
