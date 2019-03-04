@@ -1,6 +1,13 @@
 ### 알고리즘 스터디
 
-
+##
+> #### 스터디 70 (2018/3/10/일 12:00 @ 신촌역 토즈)
+>	 1. 계란으로 계란치기
+>	 https://www.acmicpc.net/problem/16987
+>	 2. 종이의 개수
+>	 https://www.acmicpc.net/problem/1780
+>	 3. 불만 정렬
+>	 https://www.acmicpc.net/problem/5012
 ##
 > #### 스터디 69 (2018/3/3/일 12:00 @ 신촌역 토즈)
 >	 1. 기타줄
