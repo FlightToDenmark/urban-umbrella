@@ -1,6 +1,16 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 71 (2018/3/17/일 12:00 @ 강남역 토즈)
+>	 1. 숌 사이 수열
+>	 https://www.acmicpc.net/problem/1469
+>	 2. 피보나치 수 3
+>	 https://www.acmicpc.net/problem/2749
+>	 3. 한윤정이 이탈리아에 가서 아이스크림을 사먹는데
+>	 https://www.acmicpc.net/problem/2422
+>	 4. Palindromic Matrix
+>	 https://codeforces.com/contest/1118/problem/C
+##
 > #### 스터디 70 (2018/3/10/일 10:00 @ 강남역 토즈)
 >	 1. 계란으로 계란치기
 >	 https://www.acmicpc.net/problem/16987
