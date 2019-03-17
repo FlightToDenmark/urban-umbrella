@@ -1,5 +1,12 @@
 ### 알고리즘 스터디
 
+
+##
+> #### 스터디 72 (2018/3/24/일 12:00 @ 강남역 토즈)
+>	 1. 큐빙
+>	 https://www.acmicpc.net/problem/5373
+>	 2. Nastya Is Playing Computer Games
+>	 https://codeforces.com/contest/1136/problem/B
 ##
 > #### 스터디 71 (2018/3/17/일 12:00 @ 강남역 토즈)
 >	 1. 숌 사이 수열
