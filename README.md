@@ -8,6 +8,8 @@
 >	 https://www.acmicpc.net/problem/2011
 >	 3. 사냥꾼
 >	 https://www.acmicpc.net/problem/8983
+>	 4. 리모컨
+>	 https://www.acmicpc.net/problem/1107
 ##
 > #### 스터디 72 (2018/4/7/일 12:00 @ 강남역 토즈)
 >	 1. 금화 게임
