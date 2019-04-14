@@ -1,6 +1,16 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 74 (2018/4/21/일 12:00 @ 강남역 토즈)
+>	 1. 두 로봇
+>	 https://www.acmicpc.net/problem/15971
+>	 2. 캐슬 디펜스
+>	 https://www.acmicpc.net/problem/17135
+>	 3. 용돈 관리
+>	 https://www.acmicpc.net/problem/6236
+>	 4. 현상금 사냥꾼 김정은
+>	 https://www.acmicpc.net/problem/10272
+##
 > #### 스터디 73 (2018/4/14/일 11:00 @ 강남역 토즈)
 >	 1. 포도주 시식
 >	 https://www.acmicpc.net/problem/2156
