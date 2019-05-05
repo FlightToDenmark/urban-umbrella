@@ -1,6 +1,14 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 75 (2018/5/6/월 미정)
+>	 1. 공주 구하기
+>	 https://www.acmicpc.net/problem/2507
+>	 2. LCM
+>	 https://www.acmicpc.net/problem/11414
+>	 3. 트리의 지름
+>	 https://www.acmicpc.net/problem/1167
+##
 > #### 스터디 74 (2018/4/28/일 20:00 @ 강남역 더카페나인)
 >	 1. 두 로봇
 >	 https://www.acmicpc.net/problem/15971
