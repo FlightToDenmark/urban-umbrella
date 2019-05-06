@@ -1,6 +1,12 @@
 ### 알고리즘 스터디
 
 ##
+> #### 스터디 75 (2018/5/12/일 12:00 @ 강남역 토즈)
+>	 1. 연구소 3
+>	 https://www.acmicpc.net/problem/17142
+>	 2. 코딩은 예쁘게
+>	 https://www.acmicpc.net/problem/2879
+##
 > #### 스터디 75 (2018/5/6/월 15:00 @ 강남역 토즈)
 >	 1. 공주 구하기
 >	 https://www.acmicpc.net/problem/2507
