@@ -6,6 +6,10 @@
 >	 https://www.acmicpc.net/problem/17142
 >	 2. 코딩은 예쁘게
 >	 https://www.acmicpc.net/problem/2879
+>	 3. 경찰차
+>	 https://www.acmicpc.net/problem/2618
+>	 4. 부분수열의 합
+>	 https://www.acmicpc.net/problem/1182
 ##
 > #### 스터디 75 (2018/5/6/월 15:00 @ 강남역 토즈)
 >	 1. 공주 구하기
