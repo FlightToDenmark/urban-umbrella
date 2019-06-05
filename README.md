@@ -6,6 +6,10 @@
 >	 https://www.acmicpc.net/problem/1208
 >	 2. 직사각형
 >	 https://www.acmicpc.net/problem/7626
+>	 3. 안수빈수
+>	 https://www.acmicpc.net/problem/16680
+>	 4. 영화 수집
+>	 https://www.acmicpc.net/problem/3653
 ##
 > #### 스터디 76 (2018/6/2/일 17:00 @ 강남역 토즈)
 >	 1. 연구소 3
